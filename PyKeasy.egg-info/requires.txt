@@ -1,0 +1,6 @@
+pyscreenshot
+pywhatkit
+pillow
+pytube
+qrcode
+openai
